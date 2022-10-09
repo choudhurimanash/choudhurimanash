@@ -1,6 +1,6 @@
 ![MasterHead](image.png)
 <h1 align="center">Hi 👋, I'm Manash Choudhuri</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Assam</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/programmer-character-work-laptop-developing-programming-languages-websites-software-online-studying-distant-education-coding-computing-occupation-cartoon-people-vector-illustration_87771-11363.jpg?w=2000">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=choudhurimanash&label=Profile%20views&color=0e75b6&style=flat" alt="choudhurimanash" /> </p>
