@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **manashchoudhuri4@gmail.com**
 
-- ⚡ Fun fact **copy code from google and paste in IDE**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
