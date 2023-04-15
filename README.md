@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&duration=1200&color=12D7F7&lines=Eat;Sleep;Code;Repeat&width=99&height=20&vCenter=true)](https://git.io/typing-svg)
 
 # 💫 About Me:
-🔭 I’m currently working on Research Paper: Speech Recognition concerning Assamese Language using CNN & RNN<br>👯 I’m looking to collaborate on fornt-end development <br>🤝 I’m looking for help with developing a webpage<br>🌱 I’m currently learning React.js, Tailwind CSS<br>💬 Ask me about react, bootstrap, tailwind, js<br>
+🔭 I’m currently working on Research Paper: Speech Recognition concerning Assamese Language using CNN & RNN<br>👯 I’m looking to collaborate on fornt-end development <br>🤝 I’m looking for help with developing a Bloging webpage<br>🌱 I’m currently learning React.js, Tailwind CSS<br>💬 Ask me about react, bootstrap, tailwind, js<br>
 
 
 ## 🌐 Socials:
