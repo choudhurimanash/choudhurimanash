@@ -14,7 +14,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=choudhurimanash&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=choudhurimanash&theme=midnight-purple&hide_border=true)<br/>
-![](https://raw.githubusercontent.com/choudhurimanash/github-stats/main/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/choudhurimanash/github-stats/main/generated/overview.svg#gh-dark-mode-only)<br/>
 ![](https://raw.githubusercontent.com/choudhurimanash/github-stats/main/generated/overview.svg#gh-light-mode-only)
 
 ## 🏆 GitHub Trophies
