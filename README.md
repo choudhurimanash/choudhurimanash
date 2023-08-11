@@ -15,6 +15,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=choudhurimanash&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=choudhurimanash&theme=midnight-purple&hide_border=true)<br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choudhurimanash&langs_count=8&theme=midnight-purple&hide_border=true)](https://github.com/choudhurimanash/github-readme-stats)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=choudhurimanash&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
