@@ -27,4 +27,21 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=choudhurimanash&icon=5&color=1)](https://visitcount.itsvg.in)
 
+## 🐍 Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/choudhurimanash/choudhurimanash/output/github-contribution-grid-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/choudhurimanash/choudhurimanash/output/github-contribution-grid-snake.svg">
+
+  <img alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/choudhurimanash/choudhurimanash/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
