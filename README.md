@@ -28,25 +28,6 @@ Junior Research Fellow • Department of Computer Science • Gauhati University
 - Change Captioning
 - Vision Language Models
 
-🌱 Currently Learning
-
-- Vision Transformers (ViT)
-- Multimodal Large Language Models
-- Diffusion Models
-- Generative AI
-- Foundation Models for Remote Sensing
-
-💬 Ask me about
-
-- Python
-- Deep Learning
-- TensorFlow
-- PyTorch
-- Computer Vision
-- Remote Sensing
-- GIS
-- Machine Learning
-
 ---
 
 # 🌐 Connect with Me
