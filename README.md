@@ -79,17 +79,6 @@ Junior Research Fellow • Department of Computer Science • Gauhati University
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=choudhurimanash&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choudhurimanash&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -106,16 +95,6 @@ Junior Research Fellow • Department of Computer Science • Gauhati University
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=choudhurimanash&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=choudhurimanash&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -142,33 +121,6 @@ src="https://raw.githubusercontent.com/choudhurimanash/choudhurimanash/output/gi
 
 ---
 
-# 📚 Current Research
-
-🛰️ Deep Learning Based Change Detection
-
-🌍 Remote Sensing Image Captioning
-
-🧠 Vision Language Models
-
-📍 Multimodal Learning
-
-🏙️ Urban Change Analysis
-
-🌳 Land Use / Land Cover Monitoring
-
----
-
-# 📖 Publications
-
-📄 Working on publications in
-
-- Remote Sensing
-- Computer Vision
-- Artificial Intelligence
-- Deep Learning
-- Vision Language Models
-
----
 
 # ✍ Random Dev Quote
 
